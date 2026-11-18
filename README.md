@@ -38,7 +38,7 @@ Installation
 
 1. Clone this repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/aamenakhan-07/CodeAlpha_FAQ_Chatbot.git
 
 2. Open the project folder:
 
